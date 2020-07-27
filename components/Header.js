@@ -9,11 +9,8 @@ const Header = props => (
         <Link href="/">
             <a style={linkStyle}>Home</a>
         </Link>
-        <Link href="/tugas">
-            <a style={linkStyle}>Tugas</a>
-        </Link>
-        <Link href="/inas">
-            <a style={linkStyle}>Inas Zakiyyah</a>
+        <Link href="/ilham">
+            <a style={linkStyle}>Ilham Dwi Bagus Prakoso</a>
         </Link>
     </div>
 );
